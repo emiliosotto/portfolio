@@ -80,7 +80,6 @@ body {
 .baguetteBox-button {
     background-color: transparent !important;
 }
-
 figure {
     border: thin #c0c0c0 solid;
     display: flex;
@@ -89,7 +88,6 @@ figure {
     max-width: 220px;
     margin: auto;
 }
-
 figcaption {
     background-color: #c2c1c1;
     color: #4e4d4d;
