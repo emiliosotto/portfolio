@@ -81,6 +81,26 @@ body {
     background-color: transparent !important;
 }
 
+figure {
+    border: thin #c0c0c0 solid;
+    display: flex;
+    flex-flow: column;
+    padding: 1px;
+    max-width: 220px;
+    margin: auto;
+}
+
+figcaption {
+    background-color: #c2c1c1;
+    color: #4e4d4d;
+    font: italic smaller sans-serif;
+    padding: 4px;
+    text-align: center;
+    position: relative;
+    bottom: 10px;
+    z-index:10000;
+}
+
 @media(max-width: 768px) {
     body {
         padding: 0;
