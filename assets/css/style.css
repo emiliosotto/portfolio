@@ -89,10 +89,11 @@ figure {
     margin: auto;
 }
 figcaption {
-    background-color: #c2c1c1;
+    background-color: #dddcdc;
     color: #4e4d4d;
     font: italic smaller sans-serif;
     padding: 4px;
+    margin 1px 15px 1px 15px;
     text-align: center;
     position: relative;
     bottom: 10px;
