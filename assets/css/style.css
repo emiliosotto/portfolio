@@ -11195,6 +11195,9 @@ p {
 
 .portfolio-card .portfolio-card-img {
   width: 100%;
+  border: 1px solid #dee2e6;
+  border-radius: 5px;
+  margin-bottom: 15px;
 }
 
 .portfolio-card .portfolio-card-overlay {
